@@ -1,0 +1,15 @@
+C:\Users\я\source\repos\seller\seller\bin\Debug\net6.0\seller.exe
+C:\Users\я\source\repos\seller\seller\bin\Debug\net6.0\seller.deps.json
+C:\Users\я\source\repos\seller\seller\bin\Debug\net6.0\seller.runtimeconfig.json
+C:\Users\я\source\repos\seller\seller\bin\Debug\net6.0\seller.dll
+C:\Users\я\source\repos\seller\seller\bin\Debug\net6.0\seller.pdb
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.AssemblyInfo.cs
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.dll
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\refint\seller.dll
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.pdb
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\seller.genruntimeconfig.cache
+C:\Users\я\source\repos\seller\seller\obj\Debug\net6.0\ref\seller.dll
